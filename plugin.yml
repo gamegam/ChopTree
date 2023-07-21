@@ -1,0 +1,5 @@
+name: ChopTree
+main: gamegam\ChopTree\ChopTree
+author: gamegam
+version: 0.1
+api: 5.0.0
